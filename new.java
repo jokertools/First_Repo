@@ -5,7 +5,7 @@ public static void main (String[] args){
 
 Scanner scanner =new Scanner(System.in);
 
-double radius =.0;
+doublsn kjvljsdj
 System.out.println("enter the radius:");
 radius= scanner.nextDouble();
 double area=0.0;
